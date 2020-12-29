@@ -1,6 +1,5 @@
-### Hi there 👋 I'm Nilesh
+### Hi there I 👋 am Nilesh, a passionate and creative developer from india 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Go Developer 
 - 🌱 I’m currently learning Go microservices,framework
