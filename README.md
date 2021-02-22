@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Go 
 - 🌱 I’m currently learning Go microservices,framework
-- 👯 I’m looking to collaborate anything intersting.
+- 👯 I’m looking to collaborate anything interesting.
 - 🤔 I’m looking for help with which i don't know but want to know.
 - 💬 Ask me about JAVA 7,8/GO/SpringBoot/Hibernate/RESTAPI
 - 📫 How to reach me: https://nileshportfoliowebsite.web.app/
